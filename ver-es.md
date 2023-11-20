@@ -1,4 +1,4 @@
-# Derecho a la Intimidad Digital de Manatí
+# Derecho a la Intimidad Digital de Manatí (3°ed)
 
 **Última actualización:** 20 de noviembre de 2023.
 
