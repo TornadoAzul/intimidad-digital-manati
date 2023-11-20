@@ -1,4 +1,4 @@
-# Derecho a la Intimidad Digital de Manatí (3°ed)
+# Derecho a la Intimidad Digital de Manatí
 
 **Última actualización:** 20 de noviembre de 2023.
 
@@ -24,6 +24,27 @@ Este documento establece los principios y políticas para garantizar el derecho 
 ### 6. Seguimiento a la Seguridad Digital:
    - Se llevará a cabo un seguimiento a la seguridad digital del proyecto al menos cada dos meses. Durante estas revisiones, se evaluarán y actualizarán las medidas de seguridad para garantizar la protección continua de la información del usuario.
 
-## Cumplimiento y Supervisión:
+### Cumplimiento y Supervisión:
 
 Todas las partes involucradas en el uso del derecho a la Intimidad Digital de Manatí deberán cumplir con las políticas establecidas en este documento. De lo contrario, no cumplirá con la aplicación del mismo.
+
+## Licencia de uso de software relacionado:
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (el "Software"), para tratar el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y permitir a las personas a las que se les proporcione el Software hacer lo mismo, siempre que se cumplan las siguientes condiciones:
+
+### 1. Derecho Intimidad Digital de Manatí:
+   - Cualquier uso, copia, fusión, publicación, distribución, sublicencia o venta del Software debe respetar y cumplir con el Derecho Intimidad Digital de Manatí. (Encontrado en Políticas de Intimidad Digital).
+
+### 2. Traducción al Español e Inglés:
+   - El Software debe ser traducido tanto al español como al inglés. Las traducciones deben ser precisas y comprensibles. Se alienta a la comunidad a contribuir con nuevas traducciones o mejorar las existentes.
+
+### 3. Publicación con Esta Misma Licencia:
+   - Cualquier redistribución del Software, ya sea modificado o no, debe ser acompañada por esta misma licencia en todos los archivos y documentación asociados.
+
+### 4. Referencia al Proyecto Principal:
+   - En cualquier redistribución del Software, se debe hacer referencia clara y adecuada al proyecto principal del cual se derivó el Software. Esto puede incluir, pero no se limita a, enlaces a la página principal del proyecto, menciones en la documentación y otros medios de comunicación.
+
+### 5. Marca del Proyecto:
+   - La marca inicial del proyecto no debe ser utilizada sin el permiso de su propietario.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS TITULARES DE LOS DERECHOS DE AUTOR O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, DERIVADA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE TRATOS EN EL SOFTWARE.
