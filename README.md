@@ -1,5 +1,5 @@
 ![Frame 954](https://github.com/TornadoAzul/intimidad-digital-manati/assets/40547556/73497e25-4c7e-470b-b18e-d1199f3a5304)
-# Derecho a la Intimidad de Manatí.
+# Derecho a la Intimidad Digital de Manatí.
 
 **Última actualización:** 20 de noviembre de 2023.
 
