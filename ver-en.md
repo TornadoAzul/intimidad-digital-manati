@@ -1,4 +1,4 @@
-# Right to Digital Privacy of Manatí
+# Right to Digital Privacy of Manatí (3°ed)
 
 **Last Updated:** November 20, 2023.
 
